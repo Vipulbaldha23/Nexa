@@ -1,0 +1,6 @@
+{
+  "name": "Nexa Player",
+  "description": "Futuristic Android video player with Liquid Glass UI, gesture controls, PiP, and advanced playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
